@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+label.label3{
+    vertical-align: top;
+    background-color: #ECF5FF;
+    display: inline-block;
+    line-height: 40px;
+    height: 38px;
+    border: 1px solid #DCDFE6;
+    border-right: hidden;
+    border-radius: 5px;
+}
+input.input1{
+    vertical-align: top;
+    font-size: 14px;
+    display: inline-block;
+    width: 220px;
+    height: 40px;
+    border: 1px solid #DCDFE6;
+    padding-left: 0px;
+    border-radius: 5px;
+}
+div.info{
+    padding: 8px;
+    text-align: center
+}
+
+label.label_family{
+    height: 38px;
+    border: 2px solid #DCDFE6;
+}
